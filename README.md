@@ -16,7 +16,9 @@ sample_images/  ---> Folder containing sample images for testing.
 
 
 
-picture of an example: "red apple"
+picture of an example:
+
+"red apple"
 ![red1](https://github.com/user-attachments/assets/5d7f1231-866a-4630-8729-27ea200f2454)
 
 output: 
@@ -32,4 +34,17 @@ output:
 ![yellow1](https://github.com/user-attachments/assets/05f2bee8-afa4-4c0e-b460-bb20a3774f57)
 
 ![image](https://github.com/user-attachments/assets/1dd4a1d4-1e1e-452f-a495-9013ae942ece)
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"blue"
+
+![blue1](https://github.com/user-attachments/assets/ad549be1-3410-42bf-9b88-e36a8be4d7a3)
+
+![image](https://github.com/user-attachments/assets/55002484-e7f1-4c99-a0fc-2ec08fe13ce7)
+
+
 
